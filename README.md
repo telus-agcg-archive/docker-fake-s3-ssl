@@ -3,7 +3,7 @@
 [![](https://images.microbadger.com/badges/image/technekes/fake-s3-ssl.svg)](https://microbadger.com/images/technekes/fake-s3-ssl "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/technekes/fake-s3-ssl.svg)](https://microbadger.com/images/technekes/fake-s3-ssl "Get your own version badge on microbadger.com")
 
-Runs a [`fake-s3`](https://github.com/jubos/fake-s3) in an Alpine based docker image with a self-signed certificate.
+Runs a [`fake-s3`](https://github.com/jubos/fake-s3) server in an Alpine based Docker image with a self-signed certificate.
 
 ## Versions
 
